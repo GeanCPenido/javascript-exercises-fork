@@ -33,5 +33,8 @@
     "testPathIgnorePatterns": [
       "generators/"
     ]
+  },
+  "dependencies": {
+    "import-local": "^3.1.0"
   }
 }
